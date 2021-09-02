@@ -1,6 +1,9 @@
 # GPT-J-6B Notebook
 
-This repo goes over how to use the GPT-J-6B model weights with huggingface.  As of 7/26/2021, the model has not been officially added to huggingface.
+This repo goes over how to use the GPT-J-6B model weights with huggingface.  
+
+~~As of 7/26/2021, the model has not been officially added to huggingface~~ (the model is now on [huggingface](https://huggingface.co/EleutherAI/gpt-j-6B))
+
 
 This repo goes along with the Youtube video seen [here](https://youtu.be/ym6mWwt85iQ)
 
