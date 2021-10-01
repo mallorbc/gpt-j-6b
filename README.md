@@ -1,8 +1,10 @@
 # GPT-J-6B Notebook
 
-This repo goes over how to use the GPT-J-6B model weights with huggingface.  As of 7/26/2021, the model has not been officially added to huggingface.
+This repo goes over how to use the GPT-J-6B model weights with huggingface.  Originally the model was not officially supported by huggingface but the weights could be still used with huggingface through other methods. The model is now officially supported, much easier to use and the notebook has been changed to reflect that.  
 
-This repo goes along with the Youtube video seen [here](https://youtu.be/ym6mWwt85iQ)
+See ```original_youtube``` branch for old method
+
+This repos old method goes along with the Youtube video seen [here](https://youtu.be/ym6mWwt85iQ)
 
 # Credit
 
